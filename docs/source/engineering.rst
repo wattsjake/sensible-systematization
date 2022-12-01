@@ -1,7 +1,7 @@
-Engineering Buzzwords
+Engineering Vernacular
 ==================
 The following is a list of buzzwords that are used in the engineering world.
-It is not meant to be a complete list, but rather a list of words that are important to know.
+It is not meant to be a complete list, but rather a list colloquial language.
 
 * **Accolade** - An "accolade" is a formal award or recognition that a company or its employees can receive. This buzzword is often used to describe a company's achievements.
 * **Alignment** - "Alignment" refers to how a company's actions support its goals. All open positions and tasks should be aligned with a particular goal to be the most efficient.

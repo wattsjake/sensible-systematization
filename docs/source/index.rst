@@ -14,7 +14,7 @@ Being organized and systematic in programming is essential for creating efficien
 Being organized and systematic can be hugely beneficial in life. Efficiency and productivity are often improved when we organize our lives and create a structure for our activities. When we are organized and systematic, tasks can be done quicker, giving us more time to enjoy life outside of our professional and personal commitments. Furthermore, being organized can help to reduce stress and anxiety, as having a clear plan helps to eliminate the sensation of feeling overwhelmed. Systematizing our lives also allows us to prioritize tasks and focus on what really matters. This in turn can increase quality of life, reducing stress and allowing us to achieve our personal and professional goals.
 
 Check out the :doc:`python` section for further information, including
-how to :ref:`VHDL` the project.
+how to :doc:`VHDL` the project.
 
 
 Contents

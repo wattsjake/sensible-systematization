@@ -1,29 +1,22 @@
 Business Buzzwords
 ==================
 
-* Return on investment
-In business, a "return on investment" refers to how beneficial a particular project has been to a company compared to the resources it used. Return on investment or ROI usually refers to profits made from a project and whether they are more or less than the cost of the project.
+* **Return on investment** - In business, a "return on investment" refers to how beneficial a particular project has been to a company compared to the resources it used. Return on investment or ROI usually refers to profits made from a project and whether they are more or less than the cost of the project.
 
-* Synergy
-"Synergy" is the way that different components work together to complete a goal. A team that gets along well and produces high-quality content can be described as having synergy.
+* **Synergy** - "Synergy" is the way that different components work together to complete a goal. A team that gets along well and produces high-quality content can be described as having synergy.
 
-* Customer journey
-"Customer journey" is a phrase that describes every interaction a customer has with a business, from their initial interest in a product to requests for support after making a purchase.
+* **Customer journey** - "Customer journey" is a phrase that describes every interaction a customer has with a business, from their initial interest in a product to requests for support after making a purchase.
 
-* Deep dive
-A "deep dive" in business is a more thorough version of brainstorming. When a manager requests a deep dive into a topic, they are asking for a detailed review of all possible ideas based on that topic.
+* **Deep dive** - A "deep dive" in business is a more thorough version of brainstorming. When a manager requests a deep dive into a topic, they are asking for a detailed review of all possible ideas based on that topic.
 
-* Impact 
+* **Impact** - 
 In business, "impact" refers to the impression that a company or its employees can have on their workplace, customers or community. This buzzword can encourage employees to focus on making a difference and measuring the changes that they make.
 
-* Ballpark
-In business, "ballpark" refers to an estimate that is within the range of something desired. Indicating that something is within the right ballpark tells others that they are taking useful steps toward a certain goal for a project.
+* **Ballpark** - In business, "ballpark" refers to an estimate that is within the range of something desired. Indicating that something is within the right ballpark tells others that they are taking useful steps toward a certain goal for a project.
 
-* Core competency
-"Core competencies" are the most important skills and values of a business. They can also describe the particular qualifications of a job applicant.
+* **Core competency** - "Core competencies" are the most important skills and values of a business. They can also describe the particular qualifications of a job applicant.
 
-* Visibility
-"Visibility" is often used in marketing to describe how popular a product or company is within a market. Businesses want visibility to increase sales and develop a good reputation.
+* **Visibility** - "Visibility" is often used in marketing to describe how popular a product or company is within a market. Businesses want visibility to increase sales and develop a good reputation.
 
 * Startup
 A "startup" is a project created by an entrepreneur that aims to become a large business. Startups are different from other types of new businesses mainly because of their goals for growth.

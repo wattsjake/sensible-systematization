@@ -1,4 +1,4 @@
-Guidelines and Conventions for VHDL Coding
+Guidelines for VHDL Coding
 =====
 
 
@@ -15,19 +15,30 @@ The first rule of VHDL coding is to make your code readable. Code readability be
 
 * Avoid very long source code lines; 72 characters is a traditional limit. 
 
-* Use indentation to highlight code structure. 2 spaces is enough to serve the purpose and will not use up too much of the line width. 
+* Use indentation to highlight code structure. Two(2) spaces is enough to serve the purpose and will not use up too much of the line width. 
 
 
 Names
 -----
 
-* Use a consistent case for each identifier
+* Use a consistent case for each identifier. Use (clk, rst for clock and reset respectively)
 
 * Use lower-case letters for signal names, variable names, and port names.
 
-* Use UPPER-CASE letters for constants and user-defined types.
+* Use upper-case letters for constants and user-defined types.
 
 * Use underscore to make identifiers more readable: **low_byte** is better than **lowbyte**.
 
 * Use meaningful and descriptive names when possible, but avoid names that are too long.
 
+
+Suffix
+------
+
+* Use suffixes to indicate types of signals, variables, and constants.
+
+* Use **_i** input signal, **_o** output signal, **_s** default signal.
+
+* Use **_TB** for all testbench files.
+
+* Use **_const** for all constrants files.

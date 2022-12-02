@@ -54,3 +54,15 @@ Common Signal Names
    * - clk, clock
    * - rst, reset
 
+.. list-table:: Comparison
+   :widths: 20 10 10 15 20 
+   :header-rows: 1   
+ 
+   * - Platform
+     - Self-Contained?
+     - Cost
+     - Flexibility
+     - Description
+   * - Raspberry Pi
+     -
+

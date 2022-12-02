@@ -46,14 +46,14 @@ Suffix
 Common Signal Names 
 -------------------
 
-.. list-table:: Title
+.. list-table:: Common VHDL Signal
    :widths: 25 25 50
    :header-rows: 1
 
-   * - Heading row 1, column 1
+   * - VHDL, Name
      - Heading row 1, column 2
      - Heading row 1, column 3
-   * - Row 1, column 1
+   * - addr, address
      -
      - Row 1, column 3
    * - Row 2, column 1

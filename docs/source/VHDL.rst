@@ -47,7 +47,7 @@ Common Signal Names
 -------------------
 
 .. list-table:: Common Signal Names
-   :widths: 25 25 50
+   :widths: 25 25
    :header-rows: 1
 
    * - VHDL , Name

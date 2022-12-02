@@ -47,18 +47,17 @@ Common Signal Names
 -------------------
 
 .. list-table:: Common VHDL Signal
-   :widths: 25 25 50
+   :widths: 25 25
    :header-rows: 1
 
-   * - VHDL
-     - Name
-     - Heading row 1, column 3
-   * - addr
-     - address
-     - Row 1, column 3
-   * - Row 2, column 1
-     - Row 2, column 2
-     - Row 2, column 3
+    * - VHDL
+      - Name
+    * - addr 
+      - address
+    * - clk
+      - clock  
+
+
 
 +------------------------+------------+----------+----------+
 | Header row, column 1   | Header 2   | Header 3 | Header 4 |

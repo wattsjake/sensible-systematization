@@ -46,25 +46,19 @@ Suffix
 Common Signal Names 
 -------------------
 
-.. list-table:: Common Signal Names
-   :widths: 25 25
+.. list-table:: Title
+   :widths: 25 25 50
    :header-rows: 1
 
-   * - VHDL , Name
-   * - clk, clock
-   * - rst, reset
-
-.. list-table:: Comparison
-   :widths: 20 10 10 15 20 
-   :header-rows: 1   
- 
-   * - Platform
-     - Self-Contained?
-     - Cost
-     - Flexibility
-     - Description
-   * - Raspberry Pi
+   * - Heading row 1, column 1
+     - Heading row 1, column 2
+     - Heading row 1, column 3
+   * - Row 1, column 1
      -
+     - Row 1, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
 
 +------------------------+------------+----------+----------+
 | Header row, column 1   | Header 2   | Header 3 | Header 4 |

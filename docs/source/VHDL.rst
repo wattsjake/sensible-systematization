@@ -42,3 +42,15 @@ Suffix
 * Use **_TB** for all testbench files.
 
 * Use **_const** for all constrants files.
+
+Common Signal Names 
+-------------------
+
+.. list-table:: Common Signal Names
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - VHDL , Name
+   * - clk, clock
+   * - rst, reset
+

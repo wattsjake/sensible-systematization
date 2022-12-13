@@ -1,6 +1,10 @@
 Guidelines for VHDL Coding
 =====
 
+.. note::
+
+    IDE: Vivado 2018.3 
+
 
 Introduction
 ------------
